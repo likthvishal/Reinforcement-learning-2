@@ -1,7 +1,7 @@
 # Deep Reinforcement Learning : Continuous Control
 
 
-![real%20world%20experience.gif](/images/real%20world%20experience.gif)
+
 
 ## Project Goal
 
